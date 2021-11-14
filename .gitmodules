@@ -1,0 +1,3 @@
+[submodule "src/fragments"]
+	path = src/fragments
+	url = git@github.com:butterfill/pug-deck-fragments.git
