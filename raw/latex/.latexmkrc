@@ -1,2 +1,1 @@
-$pdflatex = 'xelatex --shell-escape -synctex=1 %O %S';
-
+$pdflatex = 'xelatex -synctex=1 --shell-escape %O %S';
